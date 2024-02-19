@@ -12,7 +12,13 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.router-link-active{
+  color: #202bf9;
+  font-weight: 700;
+} 
+.router-link-exact-active{
+  color: #202bf9;
+}
 a {
   font-weight: 500;
   color: #646cff;
